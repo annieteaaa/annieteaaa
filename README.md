@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @annieteaaa
+- 👀 I’m interested in developing, AI, and design!
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on any projects, particularly web applications
+- 📫 How to reach me: Discord - matcha#5418
