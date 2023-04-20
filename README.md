@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @annieteaaa
+- 👋 Hi, I’m Annie
 - 👀 I’m interested in developing, AI, and design!
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on any projects, particularly web applications
+- 🌱 I’m currently working with Hinge Health to bring a superb product to you!
 - 📫 How to reach me: Discord - matcha#5418
